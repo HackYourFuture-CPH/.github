@@ -1,2 +1,3 @@
-# HackYourFuture-CPH-
-HackYourFuture-CPH GitHub Homepage
+# HackYourFuture DK
+
+Welcome to HackYourFuture Denmark GitHub Homepage
