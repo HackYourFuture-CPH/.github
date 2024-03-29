@@ -1,4 +1,4 @@
-# Welcome to HackYourFuture Denmark's Web Development Bootcamp
+# Welcome to HackYourFuture Denmark
 
 HackYourFuture supports refugees, asylum seekers and disadvantaged groups with limited access to further education and the Danish labour market in acquiring the necessary skills to become it-specialists and entering a very in-demand field.
 
